@@ -233,3 +233,10 @@
 .banner-image {
     padding-right: 80px;
 }
+footer{
+    padding: 20px;
+}
+footer p{
+    text-align: center;
+    padding-bottom: 50px;
+}
