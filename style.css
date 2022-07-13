@@ -233,10 +233,44 @@
 .banner-image {
     padding-right: 80px;
 }
+#update-message{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding:150px 20px;
+}
+#update-message h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 40px 10px;
+}
+#update-message p{
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+#mail-address{
+    background-color: ;
+
+}
+input{
+    padding: 10px 150px;
+    font-weight: bold;
+}
+button{
+    background-color: orangered;
+    padding: 10px 20px;
+    font-weight: bold;
+}
 footer{
-    padding: 10px;
+    padding: 0px;
+    text-align: center;background-color: black;
+    color: white;
+}
+footer h1{
+    padding-top: 10px;
 }
 footer p{
     text-align: center;
-    padding-bottom: 50px;
+    margin-top: 20px;
 }
